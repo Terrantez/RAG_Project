@@ -1,0 +1,26 @@
+source: {'id': None, 'name': 'New York Post'}
+author: Reuters
+title: Apple wins appeal to pause smartwatch import ban over patent dispute
+description: Apple scored a victory on Wednesday as a US appeals court paused a government commission's import ban on some of its popular Apple smartwatches.
+url: https://nypost.com/2023/12/27/business/apple-wins-appeal-to-pause-smartwatch-import-ban-over-patent-dispute/
+urlToImage: https://nypost.com/wp-content/uploads/sites/2/2023/12/apple-smartwatch-appeal.jpg?quality=75&strip=all&1703677697&w=1024
+publishedAt: 2023-12-27T17:10:17Z
+content: 
+Apple won a temporary reprieve on Wednesday after a US appeals court paused a sales ban on its smartwatches that emerged from the company’s high-profile patent feud with medical tech firm Masimo.
+The court granted Apple’s request for an emergency stay after the US International Trade Commission earlier ruled that it had infringed on Masimo’s patent for measuring blood-oxygen levels. Apple filed the appeal after the Biden administration declined to overturn the commission’s ruling.
+Apple had argued it was at risk of suffering “irreparable harm” after being forced to pull its popular Apple Watch Series 9 and Ultra 2 off the market earlier this month.
+The decision appears to clear the way for Apple to resume sales for the time being, according to Bloomberg. The appeals court signaled that the trade commission has until Jan. 10 to respond to Apple’s request for a longer stay on its ruling.
+“This is a big win for Apple that was unexpected by many given the legal issues involved in this patent battle,” Wedbush Securities analyst Dan Ives said. “Masimo now has a big fight ahead. We expect an appeals case in January to be a big moment.”
+Masimo has accused Apple of hiring away its employees, stealing its pulse oximetry technology and incorporating it into Apple Watches. AFP via Getty Images
+Masimo declined to comment on the ruling. Apple did not immediately return The Post’s request for comment.
+Apple shares were unchanged in afternoon trading on Wednesday. Masimo shares sank by approximately 6%.
+The commission’s initial ruling was a significant blow to Apple’s product lineup in the midst of the holiday sales rush. Apple’s wearables division, which includes the Apple Watch, generated $8.28 billion in revenue during the third quarter of 2023.
+Tim Cook’s Apple had filed an emergency request for the US Court of Appeals for the Federal Circuit to halt the order after appealing the US International Trade Commission’s decision that it had infringed Masimo’s patents. Getty Images
+The ruling did not apply to the less-expensive Apple Watch SE or to previously sold versions of the smartwatch.
+Before the court issued a stay, Apple’s products remained available for sale through retail partners such as Best Buy and Amazon. However, the watches were taken down from Apple’s direct-to-consumer website.
+In a separate filing on Tuesday, Masimo had argued that Apple was wrong to suggest it faced an emergency if the pause was implemented.
+Apple had paused sales of its Series 9 and Ultra 2 smartwatches in the US. REUTERS
+
+“Apple misleads the Court as to the status quo,” Masimo said. “Apple fails to inform the Court that it has already stopped sales of the infringing Apple Watches that are the subject of the challenged ITC orders.”
+With Post wires
+ 

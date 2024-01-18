@@ -1,0 +1,29 @@
+source: {'id': None, 'name': 'New York Post'}
+author: Katherine Donlevy
+title: Apple issues surprise iPhone update promising mysterious ‘bug fixes’
+description: Apple issued a surprise update for all iPhone users Tuesday promising to fix a plethora of bugs.
+url: https://nypost.com/2023/12/20/tech/apple-issues-surprise-ios-17-2-1-update-for-iphone-bug-fixes/
+urlToImage: https://nypost.com/wp-content/uploads/sites/2/2023/12/andre-m-chang-zuma-splashnews-73647411.jpg?quality=75&strip=all&w=1024
+publishedAt: 2023-12-21T03:10:46Z
+content: 
+Apple issued a surprise update for all iPhone users Tuesday promising to fix a plethora of bugs. What exactly those fixes are, however, remains a mystery.
+“This update provides important bug fixes and is recommended for all users,” the scant description of the iOS 17.2.1 states.
+The tech company released iOS 17.2.1 just one week after rolling out iOS 17.2, which contained a horde of innovative features, including the new Journal app, and upgraded security measures.
+It also comes just days after Apple unveiled beta versions of iOS 17.3, leaving many users confused as to why another minor update would be squeezed in before the widespread release of the update.
+Tech experts pointed out that while the English-language release contains no details on the bug fixes, both the Japanese and Chinese version promises to address “an issue where the battery may drain quickly under certain conditions.”
+Rapid battery drainage appeared to be a widespread issue for users after updating their iPhones to the previous iOS update, with many owners taking to X to air their grievances.
+
+
+
+The iOS 17.2.1 update offered no details beyond promises to make “important bug fixes.” Apple
+“The battery life with iOS 17.2 on iPhone 15 Pro Max is terrible. Barely getting 5-6 hours SOT. Earlier I was getting around 8-9 hours!” technology content creator Sharon Bava wrote.
+Apple did not immediately respond to The Post’s request for comment.
+Although Apple recommends the newest update for all of its users, the update does not appear to be urgent.
+It was not released as a Rapid Security Response, which could indicate that it does not address security issues.
+The tech company could have issued iOS 17.2.1 just in time for the holidays so new users could update their devices before they become distracted by the holiday season, or so that new devices will be at the ready for gift giving.
+IPhones have recently fallen victim to spyware attacks, prompting Apple to beef up its security features.
+The company released Stolen Device Protection last week on the iOS 17.3 developer beta which prevents thieves from accessing smartphones with pilfered passwords.
+
+The new feature specifically requires users to employ a biometric access code, such as their face or fingerprints when changing one’s Apple ID password, removing Face ID, and other sensitive functions.
+Stolen Device Protection will kick in anytime a user’s device is in an unfamiliar location, after which users will have to complete the aforementioned protocol.
+ 

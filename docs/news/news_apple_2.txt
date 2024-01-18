@@ -1,0 +1,28 @@
+source: {'id': None, 'name': 'New York Post'}
+author: Thomas Barrabi
+title: Apple off to worst-ever start in 2024 as iPhone, antitrust worries erase $177B in value
+description: Apple is at risk of losing its title as the world’s most valuable company.
+url: https://nypost.com/2024/01/08/business/apple-off-to-worst-ever-start-in-2024-as-iphone-antitrust-worries-erase-177b-in-value/
+urlToImage: https://nypost.com/wp-content/uploads/sites/2/2024/01/iphone-15-pro-presented-wonderlust-74580789.jpg?quality=75&strip=all&w=1024
+publishedAt: 2024-01-08T15:55:54Z
+content: 
+Apple shares are off to their worst-ever start to begin a year as investors fret over a series of issues plaguing the tech giant – including signs of weak iPhone demand and mounting federal antitrust scrutiny.
+The Cupertino, Calif.-based company’s valuation plummeted by $177 billion in market value through last Friday since the start of 2024, Bloomberg reported. 
+The stock fell more than 6% during the shortened opening week — leading to the largest decline in a company’s market cap on record over the same period — and put Apple at risk of losing its title as the world’s most valuable company.
+Shares were hit after a report surfaced that the Justice Department was in the “late stages” of filing a massive antitrust lawsuit against Apple. 
+The feds are investigating whether Apple has stifled competition and leveraged its hardware and software products to maintain the iPhone’s dominance over the market.
+A DOJ antitrust lawsuit “would add to the plethora of problems it faces, from slowing iPhone sales to Watch patent issues,” according to Bloomberg Intelligence analyst Anurag Rana.
+Analysts are warning of weak iPhone demand. REUTERS
+“The suit could attack Apple’s business model of tightly integrating its devices and services,” Rana added.
+Apple shares were up around 1% in early trading Monday. 
+As of this morning, Apple’s market cap hovered at $2.85 trillion, while Microsoft trailed just behind at $2.75 trillion.
+Apple stock has plunged since the start of the year.
+The DOJ’s probe into Apple’s business practices surfaced in the same week that a pair of firms downgraded their ratings for the company’s stock due to concerns about iPhone sales.
+Piper Sandler & Co. analyst Harsh Kumar warned clients that “growth rates have peaked for unit sales” for the iPhone. 
+The firm also cited the ongoing dispute that led officials to implement a sales ban on the latest Apple Watch model due to alleged patent infringement – a move that a US appeals court has since paused.
+Apple faces a possible DOJ antitrust lawsuit. wachiwit – stock.adobe.com
+Elsewhere, Barclays downgraded Apple’s stock to “underweight” from “neutral” and lowered their price target for the company’s shares to $160, down from a previous target of $161, due in large part to signs of weak demand for the iPhone in China and developed markets.
+
+Wall Street will be watching closely as Apple prepares to release its $3,499 “Vision Pro” virtual reality headset – its first major product release in years. 
+On Monday, Apple said the Vision Pro will be available for preorder beginning on Jan. 19 and would hit stores on Feb. 2.
+ 

@@ -9,7 +9,7 @@ from bs4 import BeautifulSoup
 from llama_index import SimpleDirectoryReader
 from readability import Document
 
-NEWS_FOLDER = 'docs/news'
+NEWS_FOLDER = 'C:/Users/DPWar/Desktop/Univ/Doutoramento/PLEI/rag_project/docs/news'
 
 
 def get_latest_news():

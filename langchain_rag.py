@@ -13,11 +13,26 @@ from llama_index_base import get_query_index
 import utils
 import models
 
-# ------------------- Defining the tools the agent has access to -------------------
+index = get_query_index()
 
+
+def news_reloader() -> str:
+    """
+    Reload the latest news after downloading them.
+    :return: str
+    """
+    index.refresh_ref_docs(utils.get_latest_news())
+    return "News reloaded successfully."
+
+
+def news_reader(query: str) -> str:
+    return str(index.as_query_engine().query(query))
+
+
+# ------------------- Defining the tools the agent has access to -------------------
 llama_index_tool = Tool(
     name=f"news_reader",
-    func=lambda q: str(get_query_index().query(q)),
+    func=lambda q: news_reader(q),
     description=f"Useful for when you need to read or summarize the latest news about a specific subject."
                 f"Receives a detailed plain text question as input.",
     return_direct=True
@@ -72,10 +87,13 @@ prompt_template = PromptTemplate(
 # ------------------- Implementation of agent using Local LLM -------------------
 
 # langchain_llm = models.get_langchain_llm_cpu()
+# os.environ["OPENAI_API_KEY"] = "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"
 #
-# agent = create_react_agent(prompt=prompt, tools=tools, llm=langchain_llm)
+# llm = ChatOpenAI(model="gpt-3.5-turbo", temperature=0)
+#
+# agent = create_react_agent(prompt=prompt_template, tools=tools, llm=llm)
 # agent_executor = AgentExecutor(agent=agent, tools=tools, verbose=True)
-
+#
 # agent_executor.invoke(
 #     {
 #         "input": input(),

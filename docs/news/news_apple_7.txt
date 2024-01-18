@@ -1,0 +1,33 @@
+source: {'id': None, 'name': 'New York Post'}
+author: Adriana Diaz
+title: I worked at Apple — these iPhone hacks are a major battery lifesaver
+description: The helpful hacks come after iOS 17 upgraders initially experienced rapidly draining batteries.
+url: https://nypost.com/2023/12/18/tech/i-worked-at-apple-these-iphone-hacks-are-a-battery-lifesaver/
+urlToImage: https://nypost.com/wp-content/uploads/sites/2/2023/12/former-apple-employee-reveals-battery-73920015.jpg?quality=75&strip=all&w=1024
+publishedAt: 2023-12-19T01:18:46Z
+content: 
+The average American checks their phone on average 96 times per day, or once every 10 minutes.
+To better deal with such frequent usage, a former Apple employee has revealed the top battery-saving hacks to allow users to check their text and scroll through TikTok all day long. 
+Tyler Morgan, who goes by @hitomidocameraroll on the app, worked in sales at Apple and recently earned 11.1 million views for revealing the best tips and tricks to make the battery power last as long as possible. 
+To begin, he warned that users should never charge an iPhone to 100% or overnight. 
+Instead, he recommended only allowing the battery to hit 80% because they chemically age when constantly reaching a full charge. 
+“Go to settings, battery, battery health and charging, turn [charging optimization] on. If you wanna be real cautious, put it to 80% limit,” Morgan said as he walked users through the process. 
+Tyler Morgan, who formerly worked in sales at Apple, recently earned 11.1 million views revealing the best tips and tricks to make the battery power last as long as possible.  prima91 – stock.adobe.com
+Morgan also recommended that users turn off their background activity by going into their Settings, to General, and clicking on Background App Refresh. 
+He explained that all the apps shown on his screen are running in the background and using battery power to stay updated but can be switched to only update on Wi-Fi or only when opened. 
+Next, he advised that users turn off location services for apps they’re not using. To do so, he guided people to go into Settings, Privacy and Security, and Location Services and choose which apps use the location services at certain times. 
+He warned that users should never charge an iPhone to 100% or overnight.  tiktok.com/@hitomidocameraroll
+For those who don’t rely on their handheld personal assistant, Morgan suggested iPhone users shut off the “Hey, Siri” feature under Siri and Search, which activates the program when someone says the phrase — and has become a problem for some people named Siri. 
+The former Apple worker also recommended that users go into Accessibility, Motion and hit Reduce Motion to save their battery life. 
+And, when possible, Morgan advised users to shut off automatic updates, and turn down the brightness and Bluetooth, which he admitted will “worsen your phone experience” but will help if you want your battery to be “saved that badly.” 
+But beyond making the battery last, Morgan has also shown his viewers how to use their iPhones more efficiently. 
+When initially opening up the camera app — which, by default, always reverts to the still camera feature — just hold down the shutter and the video feature will activate. 
+Moving your finger up and down on the screening while pressing will allow you to zoom in as well, “like TikTok or Snapchat.” 
+Next, he showed viewers how to make texting with one hand even easier, if it’s difficult to “reach all the way across your phone” to press the “a,” “q” or “z” keys, for instance.
+There’s a one-handed keyboard option, which is accessible by holding down the globe symbol on the bottom left of the keyboard — the same one that also allows you to switch your keyboard language. 
+Morgan advised that users shut off certain features such as automatic updates, background activity, and location services.  tiktok.com/@hitomidocameraroll
+When the pop-up appears, you may choose which truncated keyboard you prefer, whether it condenses to the right or the left, depending on which hand you’re using to type.
+
+The helpful hacks come after iOS 17 upgraders initially experienced rapidly draining batteries and expressed privacy concerns. 
+The latest software improvement iPhone Operating System 17.2, follows shortly after two recent rounds of bug fixes relevant to virtual car keys and financial features, among other security worries. 
+ 

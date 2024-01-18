@@ -1,0 +1,32 @@
+source: {'id': None, 'name': 'New York Post'}
+author: Joshua Lynch
+title: Apple Watch feature saves woman who passed out at home from carbon monoxide poisoning
+description: A woman who nearly died from carbon monoxide poisoning is lucky to be alive after the SOS feature on her Apple Watch dialed emergency services.
+url: https://nypost.com/2024/01/05/lifestyle/delaware-woman-natalie-nasatk-who-suffered-carbon-monoxide-poisoning-saved-by-apple-watch/
+urlToImage: https://nypost.com/wp-content/uploads/sites/2/2024/01/Apple-Watch-comp-1-1.jpg?quality=75&strip=all&w=1024
+publishedAt: 2024-01-05T08:02:30Z
+content: 
+A woman who nearly died from carbon monoxide poisoning is lucky to be alive after the SOS feature on her Apple Watch dialed emergency services. 
+Natalie Nasatka of Delaware said her “survival instincts kicked in” when she randomly woke up feeling weak, dizzy, and short of breath around 8 a.m. on Dec 29.
+Feeling more off than usual when under the weather, the 40-year-old veteran decided to cancel plans for the day and head back to sleep. 
+But when Nasatka woke up on her couch around noon, the symptoms persisted and her vision started to become increasingly fuzzy.
+“My survival instincts kicked in when I was at my weakest,” Nasatka told DM, realizing her health was in danger and she needed medical assistance.
+Nasatka said she was too weak to look for her phone, so she held down the side button on her Apple Watch.
+Natalie Nasatka canceled plans for the day and went back to sleep after waking up feeling weak, dizzy, and short of breath around 8 a.m. on Dec 29.  CBS News 3
+“I used the SOS feature on my Apple Watch to connect with 911 dispatch. I told them that it was possibly CO poisoning and that I was too weak to move to get out of the house,” Nasatka said.
+Carbon monoxide is an odorless, colorless gas that’s created by a burning of fuels. A person can be poisoned by carbon monoxide when it builds up in their blood. 
+Emergency services as well as firefighters responded immediately and rushed into Nasatka’s home, where they found the helpless woman barely conscious on her bed.
+Natalie Nasatka realized she needed medical attention when the symptoms worsened, so she dialed emergency services from her Apple watch.  CBS News 3
+“When I heard the firefighters yell out ‘fire department’ and they yanked me out of bed, I just started crying and saying ‘I want to live. I want to live,’ ” she said to CBS. 
+Nasatka was rushed to an ambulance waiting outside for her and was given oxygen before arriving to the hospital.
+A CT scan of Nasatka’s brain showed no signs of damage, and she was kept at Bayhealth Kent Campus hospital for 24 hours before being released.
+
+“I’ve been riding waves of emotions,” Nasatka told CBS.
+Nasatka’s said firefighters confirmed the cause of her health scare was from carbon monoxide.
+The Delaware veteran says she overheard the fire department monitor “read 80 parts per million in the apartment, which is extremely high.”
+Firefighters confirmed the cause of Nasatka’s symptoms was from carbon monoxide poisoning.  CBS News 3
+Nasatka, who did not have a carbon monoxide detector, believes a heater in her apartment is where the gas started from.
+She admitted to experiencing issues with the heater in her apartment for a month after getting it replaced, but maintenance in the building failed to give a reason as to why.
+At least 420 people die in the US from accidental CO poisoning, according to the CDC. In 2022 alone, 1,244 people in the US died from carbon monoxide poisoning. 
+In 2023, the number of carbon monoxide deaths dropped to just 336.
+ 

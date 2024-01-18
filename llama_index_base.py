@@ -52,3 +52,9 @@ def get_query_index():
 # while True:
 #     response = chat_engine.stream_chat(input())
 #     response.print_response_stream()
+
+# response = index.as_query_engine().query("What is the latest news about the apple?")
+# print(response.response)
+#
+# print("Source nodes:")
+# [print("node:", node.get_content()) for node in response.source_nodes]
